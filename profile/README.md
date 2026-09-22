@@ -1,4 +1,4 @@
-# Automatic Victoria 3 DLC Unlocker & Activator Tool**
+# Automatic Victoria 3 DLC Unlocker & Activator Tool
 
 **CreamAPI** is a simple and universal tool that automatically activates DLCs in **Victoria 3**. Currently works for Steam and Epic Games versions only.
 
@@ -8,7 +8,7 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Victoria-3-DLC-Unlocker-Tool/.github/releases)
   
 * **Format:** `.zip` archive
 
